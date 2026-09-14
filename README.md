@@ -1,2 +1,3 @@
 # launch-console-
-this is a test project for c2c.
+## Day 1 at my startup
+Today I joined my squad and made my first commit. Excited to start building.
